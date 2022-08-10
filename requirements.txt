@@ -1,0 +1,6 @@
+sanic
+psycopg2-binary
+python-dotenv
+schematics
+asyncpg
+aiounittest
